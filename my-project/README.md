@@ -21,4 +21,12 @@ And all based on ReactJS, used with ESLint, Prettier, WebPack...
 
 ## Portfolio
 Features :
-- 
+- Home page
+- Project page
+- Contact page (with formspree.io)
+- Blog (auto-generated with MDX from Srapi)
+- 404
+
+All datas are from Strapi API & made by GraphQL requests.
+Images are hosted on Cloudinary automatically.
+
